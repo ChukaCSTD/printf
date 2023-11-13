@@ -1,2 +1,2 @@
 # printf
-This is the second repository group task
+This is the ALX PRINTF repository group task
