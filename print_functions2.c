@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * print_pointer - Prints the value of a pointer variable
  * BY CHUKA AND PRECIOUS
@@ -17,7 +16,7 @@ int print_pointer(va_list types, char buffer[],
 {
 	char extra_c = 0, padd = ' ';
 	int ind = BUFF_SIZE - 2, length = 2, padd_start = 1;
-	
+
 	unsigned long num_addrs;
 	char map_to[] = "0123456789abcdef";
 	void *addrs = va_arg(types, void *);
