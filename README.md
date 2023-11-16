@@ -26,10 +26,6 @@ The implemented printf function should:
 ### Implementation Details
 
 - The project does not replicate the buffer handling of the C library printf function.
-- It does not handle flag characters.
-- It does not handle field width.
-- It does not handle precision.
-- It does not handle length modifiers.
 
 ## Project Structure
 
